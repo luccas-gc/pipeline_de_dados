@@ -1,0 +1,501 @@
+date,product,price,quantity
+2025-01-01,Notebook,3500,1
+2025-01-01,Mouse,80,2
+2025-01-02,Keyboard,150,1
+2025-01-02,Monitor,1200,1
+2025-01-03,Chair,900,1
+2025-01-03,Desk,700,1
+2025-01-04,SSD 1TB,550,2
+2025-01-04,Webcam Full HD,350,1
+2025-01-05,Headset Bluetooth,280,2
+2025-01-05,Mouse Pad Gamer,110,3
+2025-01-06,Memória RAM,450,2
+2025-01-06,Placa de Vídeo,2800,1
+2025-01-07,Processador,1500,1
+2025-01-07,Hub USB-C,180,4
+2025-01-08,Luminária Inteligente,130,2
+2025-01-08,Suporte de Monitor,220,1
+2025-01-09,Caixa de Som,250,2
+2025-01-09,Cooler Fan,90,5
+2025-01-10,Cabo HDMI 2.1,75,10
+2025-01-10,HD Externo,400,1
+2025-01-11,Notebook,3500,1
+2025-01-11,Mouse,80,3
+2025-01-12,Keyboard,150,2
+2025-01-12,Monitor,1200,1
+2025-01-13,Chair,900,2
+2025-01-13,Desk,700,1
+2025-01-14,SSD 1TB,550,1
+2025-01-14,Webcam Full HD,350,2
+2025-01-15,Headset Bluetooth,280,1
+2025-01-15,Mouse Pad Gamer,110,5
+2025-01-16,Memória RAM,450,4
+2025-01-16,Placa de Vídeo,2800,1
+2025-01-17,Processador,1500,1
+2025-01-17,Hub USB-C,180,2
+2025-01-18,Luminária Inteligente,130,3
+2025-01-18,Suporte de Monitor,220,1
+2025-01-19,Caixa de Som,250,2
+2025-01-19,Cooler Fan,90,4
+2025-01-20,Cabo HDMI 2.1,75,5
+2025-01-20,HD Externo,400,2
+2025-01-21,Notebook,3500,1
+2025-01-21,Mouse,80,4
+2025-01-22,Keyboard,150,2
+2025-01-22,Monitor,1200,1
+2025-01-23,Chair,900,1
+2025-01-23,Desk,700,1
+2025-01-24,SSD 1TB,550,3
+2025-01-24,Webcam Full HD,350,1
+2025-01-25,Headset Bluetooth,280,2
+2025-01-25,Mouse Pad Gamer,110,2
+2025-01-26,Memória RAM,450,2
+2025-01-26,Placa de Vídeo,2800,1
+2025-01-27,Processador,1500,1
+2025-01-27,Hub USB-C,180,5
+2025-01-28,Luminária Inteligente,130,1
+2025-01-28,Suporte de Monitor,220,2
+2025-01-29,Caixa de Som,250,3
+2025-01-29,Cooler Fan,90,6
+2025-01-30,Cabo HDMI 2.1,75,8
+2025-01-30,HD Externo,400,1
+2025-01-31,Notebook,3500,1
+2025-01-31,Mouse,80,2
+2025-02-01,Keyboard,150,1
+2025-02-01,Monitor,1200,1
+2025-02-02,Chair,900,1
+2025-02-02,Desk,700,1
+2025-02-03,SSD 1TB,550,2
+2025-02-03,Webcam Full HD,350,1
+2025-02-04,Headset Bluetooth,280,2
+2025-02-04,Mouse Pad Gamer,110,4
+2025-02-05,Memória RAM,450,2
+2025-02-05,Placa de Vídeo,2800,1
+2025-02-06,Processador,1500,1
+2025-02-06,Hub USB-C,180,3
+2025-02-07,Luminária Inteligente,130,2
+2025-02-07,Suporte de Monitor,220,1
+2025-02-08,Caixa de Som,250,2
+2025-02-08,Cooler Fan,90,5
+2025-02-09,Cabo HDMI 2.1,75,10
+2025-02-09,HD Externo,400,1
+2025-02-10,Notebook,3500,1
+2025-02-10,Mouse,80,3
+2025-02-11,Keyboard,150,2
+2025-02-11,Monitor,1200,1
+2025-02-12,Chair,900,1
+2025-02-12,Desk,700,1
+2025-02-13,SSD 1TB,550,1
+2025-02-13,Webcam Full HD,350,2
+2025-02-14,Headset Bluetooth,280,1
+2025-02-14,Mouse Pad Gamer,110,5
+2025-02-15,Memória RAM,450,4
+2025-02-15,Placa de Vídeo,2800,1
+2025-02-16,Processador,1500,1
+2025-02-16,Hub USB-C,180,2
+2025-02-17,Luminária Inteligente,130,3
+2025-02-17,Suporte de Monitor,220,1
+2025-02-18,Caixa de Som,250,2
+2025-02-18,Cooler Fan,90,4
+2025-02-19,Cabo HDMI 2.1,75,5
+2025-02-19,HD Externo,400,2
+2025-02-20,Notebook,3500,1
+2025-02-20,Mouse,80,4
+2025-02-21,Keyboard,150,2
+2025-02-21,Monitor,1200,1
+2025-02-22,Chair,900,1
+2025-02-22,Desk,700,1
+2025-02-23,SSD 1TB,550,3
+2025-02-23,Webcam Full HD,350,1
+2025-02-24,Headset Bluetooth,280,2
+2025-02-24,Mouse Pad Gamer,110,2
+2025-02-25,Memória RAM,450,2
+2025-02-25,Placa de Vídeo,2800,1
+2025-02-26,Processador,1500,1
+2025-02-26,Hub USB-C,180,5
+2025-02-27,Luminária Inteligente,130,1
+2025-02-27,Suporte de Monitor,220,2
+2025-02-28,Caixa de Som,250,3
+2025-02-28,Cooler Fan,90,6
+2025-03-01,Cabo HDMI 2.1,75,8
+2025-03-01,HD Externo,400,1
+2025-03-02,Notebook,3500,1
+2025-03-02,Mouse,80,2
+2025-03-03,Keyboard,150,1
+2025-03-03,Monitor,1200,1
+2025-03-04,Chair,900,1
+2025-03-04,Desk,700,1
+2025-03-05,SSD 1TB,550,2
+2025-03-05,Webcam Full HD,350,1
+2025-03-06,Headset Bluetooth,280,2
+2025-03-06,Mouse Pad Gamer,110,4
+2025-03-07,Memória RAM,450,2
+2025-03-07,Placa de Vídeo,2800,1
+2025-03-08,Processador,1500,1
+2025-03-08,Hub USB-C,180,3
+2025-03-09,Luminária Inteligente,130,2
+2025-03-09,Suporte de Monitor,220,1
+2025-03-10,Caixa de Som,250,2
+2025-03-10,Cooler Fan,90,5
+2025-03-11,Cabo HDMI 2.1,75,10
+2025-03-11,HD Externo,400,1
+2025-03-12,Notebook,3500,1
+2025-03-12,Mouse,80,3
+2025-03-13,Keyboard,150,2
+2025-03-13,Monitor,1200,1
+2025-03-14,Chair,900,1
+2025-03-14,Desk,700,1
+2025-03-15,SSD 1TB,550,1
+2025-03-15,Webcam Full HD,350,2
+2025-03-16,Headset Bluetooth,280,1
+2025-03-16,Mouse Pad Gamer,110,5
+2025-03-17,Memória RAM,450,4
+2025-03-17,Placa de Vídeo,2800,1
+2025-03-18,Processador,1500,1
+2025-03-18,Hub USB-C,180,2
+2025-03-19,Luminária Inteligente,130,3
+2025-03-19,Suporte de Monitor,220,1
+2025-03-20,Caixa de Som,250,2
+2025-03-20,Cooler Fan,90,4
+2025-03-21,Cabo HDMI 2.1,75,5
+2025-03-21,HD Externo,400,2
+2025-03-22,Notebook,3500,1
+2025-03-22,Mouse,80,4
+2025-03-23,Keyboard,150,2
+2025-03-23,Monitor,1200,1
+2025-03-24,Chair,900,1
+2025-03-24,Desk,700,1
+2025-03-25,SSD 1TB,550,3
+2025-03-25,Webcam Full HD,350,1
+2025-03-26,Headset Bluetooth,280,2
+2025-03-26,Mouse Pad Gamer,110,2
+2025-03-27,Memória RAM,450,2
+2025-03-27,Placa de Vídeo,2800,1
+2025-03-28,Processador,1500,1
+2025-03-28,Hub USB-C,180,5
+2025-03-29,Luminária Inteligente,130,1
+2025-03-29,Suporte de Monitor,220,2
+2025-03-30,Caixa de Som,250,3
+2025-03-30,Cooler Fan,90,6
+2025-03-31,Cabo HDMI 2.1,75,8
+2025-03-31,HD Externo,400,1
+2025-04-01,Notebook,3500,1
+2025-04-01,Mouse,80,2
+2025-04-02,Keyboard,150,1
+2025-04-02,Monitor,1200,1
+2025-04-03,Chair,900,1
+2025-04-03,Desk,700,1
+2025-04-04,SSD 1TB,550,2
+2025-04-04,Webcam Full HD,350,1
+2025-04-05,Headset Bluetooth,280,2
+2025-04-05,Mouse Pad Gamer,110,4
+2025-04-06,Memória RAM,450,2
+2025-04-06,Placa de Vídeo,2800,1
+2025-04-07,Processador,1500,1
+2025-04-07,Hub USB-C,180,3
+2025-04-08,Luminária Inteligente,130,2
+2025-04-08,Suporte de Monitor,220,1
+2025-04-09,Caixa de Som,250,2
+2025-04-09,Cooler Fan,90,5
+2025-04-10,Cabo HDMI 2.1,75,10
+2025-04-10,HD Externo,400,1
+2025-04-11,Notebook,3500,1
+2025-04-11,Mouse,80,3
+2025-04-12,Keyboard,150,2
+2025-04-12,Monitor,1200,1
+2025-04-13,Chair,900,1
+2025-04-13,Desk,700,1
+2025-04-14,SSD 1TB,550,1
+2025-04-14,Webcam Full HD,350,2
+2025-04-15,Headset Bluetooth,280,1
+2025-04-15,Mouse Pad Gamer,110,5
+2025-04-16,Memória RAM,450,4
+2025-04-16,Placa de Vídeo,2800,1
+2025-04-17,Processador,1500,1
+2025-04-17,Hub USB-C,180,2
+2025-04-18,Luminária Inteligente,130,3
+2025-04-18,Suporte de Monitor,220,1
+2025-04-19,Caixa de Som,250,2
+2025-04-19,Cooler Fan,90,4
+2025-04-20,Cabo HDMI 2.1,75,5
+2025-04-20,HD Externo,400,2
+2025-04-21,Notebook,3500,1
+2025-04-21,Mouse,80,4
+2025-04-22,Keyboard,150,2
+2025-04-22,Monitor,1200,1
+2025-04-23,Chair,900,1
+2025-04-23,Desk,700,1
+2025-04-24,SSD 1TB,550,3
+2025-04-24,Webcam Full HD,350,1
+2025-04-25,Headset Bluetooth,280,2
+2025-04-25,Mouse Pad Gamer,110,2
+2025-04-26,Memória RAM,450,2
+2025-04-26,Placa de Vídeo,2800,1
+2025-04-27,Processador,1500,1
+2025-04-27,Hub USB-C,180,5
+2025-04-28,Luminária Inteligente,130,1
+2025-04-28,Suporte de Monitor,220,2
+2025-04-29,Caixa de Som,250,3
+2025-04-29,Cooler Fan,90,6
+2025-04-30,Cabo HDMI 2.1,75,8
+2025-04-30,HD Externo,400,1
+2025-05-01,Notebook,3500,1
+2025-05-01,Mouse,80,2
+2025-05-02,Keyboard,150,1
+2025-05-02,Monitor,1200,1
+2025-05-03,Chair,900,1
+2025-05-03,Desk,700,1
+2025-05-04,SSD 1TB,550,2
+2025-05-04,Webcam Full HD,350,1
+2025-05-05,Headset Bluetooth,280,2
+2025-05-05,Mouse Pad Gamer,110,4
+2025-05-06,Memória RAM,450,2
+2025-05-06,Placa de Vídeo,2800,1
+2025-05-07,Processador,1500,1
+2025-05-07,Hub USB-C,180,3
+2025-05-08,Luminária Inteligente,130,2
+2025-05-08,Suporte de Monitor,220,1
+2025-05-09,Caixa de Som,250,2
+2025-05-09,Cooler Fan,90,5
+2025-05-10,Cabo HDMI 2.1,75,10
+2025-05-10,HD Externo,400,1
+2025-05-11,Notebook,3500,1
+2025-05-11,Mouse,80,3
+2025-05-12,Keyboard,150,2
+2025-05-12,Monitor,1200,1
+2025-05-13,Chair,900,1
+2025-05-13,Desk,700,1
+2025-05-14,SSD 1TB,550,1
+2025-05-14,Webcam Full HD,350,2
+2025-05-15,Headset Bluetooth,280,1
+2025-05-15,Mouse Pad Gamer,110,5
+2025-05-16,Memória RAM,450,4
+2025-05-16,Placa de Vídeo,2800,1
+2025-05-17,Processador,1500,1
+2025-05-17,Hub USB-C,180,2
+2025-05-18,Luminária Inteligente,130,3
+2025-05-18,Suporte de Monitor,220,1
+2025-05-19,Caixa de Som,250,2
+2025-05-19,Cooler Fan,90,4
+2025-05-20,Cabo HDMI 2.1,75,5
+2025-05-20,HD Externo,400,2
+2025-05-21,Notebook,3500,1
+2025-05-21,Mouse,80,4
+2025-05-22,Keyboard,150,2
+2025-05-22,Monitor,1200,1
+2025-05-23,Chair,900,1
+2025-05-23,Desk,700,1
+2025-05-24,SSD 1TB,550,3
+2025-05-24,Webcam Full HD,350,1
+2025-05-25,Headset Bluetooth,280,2
+2025-05-25,Mouse Pad Gamer,110,2
+2025-05-26,Memória RAM,450,2
+2025-05-26,Placa de Vídeo,2800,1
+2025-05-27,Processador,1500,1
+2025-05-27,Hub USB-C,180,5
+2025-05-28,Luminária Inteligente,130,1
+2025-05-28,Suporte de Monitor,220,2
+2025-05-29,Caixa de Som,250,3
+2025-05-29,Cooler Fan,90,6
+2025-05-30,Cabo HDMI 2.1,75,8
+2025-05-30,HD Externo,400,1
+2025-06-01,Notebook,3500,1
+2025-06-01,Mouse,80,2
+2025-06-02,Keyboard,150,1
+2025-06-02,Monitor,1200,1
+2025-06-03,Chair,900,1
+2025-06-03,Desk,700,1
+2025-06-04,SSD 1TB,550,2
+2025-06-04,Webcam Full HD,350,1
+2025-06-05,Headset Bluetooth,280,2
+2025-06-05,Mouse Pad Gamer,110,4
+2025-06-06,Memória RAM,450,2
+2025-06-06,Placa de Vídeo,2800,1
+2025-06-07,Processador,1500,1
+2025-06-07,Hub USB-C,180,3
+2025-06-08,Luminária Inteligente,130,2
+2025-06-08,Suporte de Monitor,220,1
+2025-06-09,Caixa de Som,250,2
+2025-06-09,Cooler Fan,90,5
+2025-06-10,Cabo HDMI 2.1,75,10
+2025-06-10,HD Externo,400,1
+2025-06-11,Notebook,3500,1
+2025-06-11,Mouse,80,3
+2025-06-12,Keyboard,150,2
+2025-06-12,Monitor,1200,1
+2025-06-13,Chair,900,1
+2025-06-13,Desk,700,1
+2025-06-14,SSD 1TB,550,1
+2025-06-14,Webcam Full HD,350,2
+2025-06-15,Headset Bluetooth,280,1
+2025-06-15,Mouse Pad Gamer,110,5
+2025-06-16,Memória RAM,450,4
+2025-06-16,Placa de Vídeo,2800,1
+2025-06-17,Processador,1500,1
+2025-06-17,Hub USB-C,180,2
+2025-06-18,Luminária Inteligente,130,3
+2025-06-18,Suporte de Monitor,220,1
+2025-06-19,Caixa de Som,250,2
+2025-06-19,Cooler Fan,90,4
+2025-06-20,Cabo HDMI 2.1,75,5
+2025-06-20,HD Externo,400,2
+2025-06-21,Notebook,3500,1
+2025-06-21,Mouse,80,4
+2025-06-22,Keyboard,150,2
+2025-06-22,Monitor,1200,1
+2025-06-23,Chair,900,1
+2025-06-23,Desk,700,1
+2025-06-24,SSD 1TB,550,3
+2025-06-24,Webcam Full HD,350,1
+2025-06-25,Headset Bluetooth,280,2
+2025-06-25,Mouse Pad Gamer,110,2
+2025-06-26,Memória RAM,450,2
+2025-06-26,Placa de Vídeo,2800,1
+2025-06-27,Processador,1500,1
+2025-06-27,Hub USB-C,180,5
+2025-06-28,Luminária Inteligente,130,1
+2025-06-28,Suporte de Monitor,220,2
+2025-06-29,Caixa de Som,250,3
+2025-06-29,Cooler Fan,90,6
+2025-06-30,Cabo HDMI 2.1,75,8
+2025-06-30,HD Externo,400,1
+2025-07-01,Notebook,3500,1
+2025-07-01,Mouse,80,2
+2025-07-02,Keyboard,150,1
+2025-07-02,Monitor,1200,1
+2025-07-03,Chair,900,1
+2025-07-03,Desk,700,1
+2025-07-04,SSD 1TB,550,2
+2025-07-04,Webcam Full HD,350,1
+2025-07-05,Headset Bluetooth,280,2
+2025-07-05,Mouse Pad Gamer,110,4
+2025-07-06,Memória RAM,450,2
+2025-07-06,Placa de Vídeo,2800,1
+2025-07-07,Processador,1500,1
+2025-07-07,Hub USB-C,180,3
+2025-07-08,Luminária Inteligente,130,2
+2025-07-08,Suporte de Monitor,220,1
+2025-07-09,Caixa de Som,250,2
+2025-07-09,Cooler Fan,90,5
+2025-07-10,Cabo HDMI 2.1,75,10
+2025-07-10,HD Externo,400,1
+2025-07-11,Notebook,3500,1
+2025-07-11,Mouse,80,3
+2025-07-12,Keyboard,150,2
+2025-07-12,Monitor,1200,1
+2025-07-13,Chair,900,1
+2025-07-13,Desk,700,1
+2025-07-14,SSD 1TB,550,1
+2025-07-14,Webcam Full HD,350,2
+2025-07-15,Headset Bluetooth,280,1
+2025-07-15,Mouse Pad Gamer,110,5
+2025-07-16,Memória RAM,450,4
+2025-07-16,Placa de Vídeo,2800,1
+2025-07-17,Processador,1500,1
+2025-07-17,Hub USB-C,180,2
+2025-07-18,Luminária Inteligente,130,3
+2025-07-18,Suporte de Monitor,220,1
+2025-07-19,Caixa de Som,250,2
+2025-07-19,Cooler Fan,90,4
+2025-07-20,Cabo HDMI 2.1,75,5
+2025-07-20,HD Externo,400,2
+2025-07-21,Notebook,3500,1
+2025-07-21,Mouse,80,4
+2025-07-22,Keyboard,150,2
+2025-07-22,Monitor,1200,1
+2025-07-23,Chair,900,1
+2025-07-23,Desk,700,1
+2025-07-24,SSD 1TB,550,3
+2025-07-24,Webcam Full HD,350,1
+2025-07-25,Headset Bluetooth,280,2
+2025-07-25,Mouse Pad Gamer,110,2
+2025-07-26,Memória RAM,450,2
+2025-07-26,Placa de Vídeo,2800,1
+2025-07-27,Processador,1500,1
+2025-07-27,Hub USB-C,180,5
+2025-07-28,Luminária Inteligente,130,1
+2025-07-28,Suporte de Monitor,220,2
+2025-07-29,Caixa de Som,250,3
+2025-07-29,Cooler Fan,90,6
+2025-07-30,Cabo HDMI 2.1,75,8
+2025-07-30,HD Externo,400,1
+2025-08-01,Notebook,3500,1
+2025-08-01,Mouse,80,2
+2025-08-02,Keyboard,150,1
+2025-08-02,Monitor,1200,1
+2025-08-03,Chair,900,1
+2025-08-03,Desk,700,1
+2025-08-04,SSD 1TB,550,2
+2025-08-04,Webcam Full HD,350,1
+2025-08-05,Headset Bluetooth,280,2
+2025-08-05,Mouse Pad Gamer,110,4
+2025-08-06,Memória RAM,450,2
+2025-08-06,Placa de Vídeo,2800,1
+2025-08-07,Processador,1500,1
+2025-08-07,Hub USB-C,180,3
+2025-08-08,Luminária Inteligente,130,2
+2025-08-08,Suporte de Monitor,220,1
+2025-08-09,Caixa de Som,250,2
+2025-08-09,Cooler Fan,90,5
+2025-08-10,Cabo HDMI 2.1,75,10
+2025-08-10,HD Externo,400,1
+2025-08-11,Notebook,3500,1
+2025-08-11,Mouse,80,3
+2025-08-12,Keyboard,150,2
+2025-08-12,Monitor,1200,1
+2025-08-13,Chair,900,1
+2025-08-13,Desk,700,1
+2025-08-14,SSD 1TB,550,1
+2025-08-14,Webcam Full HD,350,2
+2025-08-15,Headset Bluetooth,280,1
+2025-08-15,Mouse Pad Gamer,110,5
+2025-08-16,Memória RAM,450,4
+2025-08-16,Placa de Vídeo,2800,1
+2025-08-17,Processador,1500,1
+2025-08-17,Hub USB-C,180,2
+2025-08-18,Luminária Inteligente,130,3
+2025-08-18,Suporte de Monitor,220,1
+2025-08-19,Caixa de Som,250,2
+2025-08-19,Cooler Fan,90,4
+2025-08-20,Cabo HDMI 2.1,75,5
+2025-08-20,HD Externo,400,2
+2025-08-21,Notebook,3500,1
+2025-08-21,Mouse,80,4
+2025-08-22,Keyboard,150,2
+2025-08-22,Monitor,1200,1
+2025-08-23,Chair,900,1
+2025-08-23,Desk,700,1
+2025-08-24,SSD 1TB,550,3
+2025-08-24,Webcam Full HD,350,1
+2025-08-25,Headset Bluetooth,280,2
+2025-08-25,Mouse Pad Gamer,110,2
+2025-08-26,Memória RAM,450,2
+2025-08-26,Placa de Vídeo,2800,1
+2025-08-27,Processador,1500,1
+2025-08-27,Hub USB-C,180,5
+2025-08-28,Luminária Inteligente,130,1
+2025-08-28,Suporte de Monitor,220,2
+2025-08-29,Caixa de Som,250,3
+2025-08-29,Cooler Fan,90,6
+2025-08-30,Cabo HDMI 2.1,75,8
+2025-08-30,HD Externo,400,1
+2025-08-31,Notebook,3500,1
+2025-08-31,Mouse,80,2
+2025-09-01,Keyboard,150,1
+2025-09-01,Monitor,1200,1
+2025-09-02,Chair,900,1
+2025-09-02,Desk,700,1
+2025-09-03,SSD 1TB,550,2
+2025-09-03,Webcam Full HD,350,1
+2025-09-04,Headset Bluetooth,280,2
+2025-09-04,Mouse Pad Gamer,110,4
+2025-09-05,Memória RAM,450,2
+2025-09-05,Placa de Vídeo,2800,1
+2025-09-06,Processador,1500,1
+2025-09-06,Hub USB-C,180,3
+2025-09-07,Luminária Inteligente,130,2
+2025-09-07,Suporte de Monitor,220,1
+2025-09-08,Caixa de Som,250,2
+2025-09-08,Cooler Fan,90,5
+2025-09-09,Cabo HDMI 2.1,75,10
+2025-09-09,HD Externo,400,1
