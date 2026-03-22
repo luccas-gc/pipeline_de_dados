@@ -28,33 +28,17 @@ Treinar conceitos básicos de:
   - **sales_by_product_revenue** (Produtos mais lucrativo)
 - Salva tudo em um banco de dados SQLite
 
----
+## Como executar
 
-## Estrutura do projeto
-├─ data/
-│ └─ sales.csv # Dados de entrada
-├─ data/processed/ # Banco de dados SQLite gerado
-│ └─ sales.db # Database gerado após executar o projeto
-├─ src/
-│ └─ pipeline.py # Funções para processar dados
-├─ main.py # Script principal que executa o pipeline
-├─ requirements.txt # Dependências do projeto
-└─ README.md
+Basta clonar o repositório com:
+- git clone <URL do repositório>
 
-## ▶️ Como executar
-
-1. Clone o repositório
-- git clone <https://github.com/luccas-gc/pipeline_de_dados>
-- cd <pipeline_de_dados>
-
-2. Crie e ative um ambiente virtual
+Ativar o ambiente virtual e instalar as depencências
 - python -m venv venv
 - venv\Scripts\activate
-
-3. Instale as Dependências
 - pip install requirements.txt
 
-4. Execute main.py
+Executar main.py
 - python main.py
 
 ## 📁 Saída
