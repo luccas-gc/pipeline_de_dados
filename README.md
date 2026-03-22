@@ -7,7 +7,7 @@ Prática de **Python**, **Pandas** e **SQLite**, simulando uma pipeline de dados
 Treinar conceitos básicos de:
 
 - Manipulação de dados 
-- Agrupamentos e análises  
+- Agrupamentos de dados para análises  
 - Uso de SQLite  
 - Estrutura de pipeline  
 
