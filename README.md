@@ -1,13 +1,12 @@
-# 📊 Pipeline de Dados
+# Pipeline de Dados
 
 Prática de **Python**, **Pandas** e **SQLite**, simulando uma pipeline de dados (ETL).
 
-## 🧠 Objetivo
+## Objetivo
 
 Treinar conceitos básicos de:
 
-- Manipulação de dados 
-- Agrupamentos de dados para análises  
+- Manipulação e Organização de dados para análises
 - Uso de SQLite  
 - Estrutura de pipeline  
 
@@ -37,7 +36,7 @@ Basta executar os seguintes comandos:
 - python main.py
 ```
 
-## 📁 Saída
+## Saída
 
 O banco de dados será criado em:
 - data/processed/sales.db
