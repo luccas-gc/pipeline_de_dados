@@ -12,7 +12,7 @@ Treinar conceitos básicos de:
 
 ---
 
-## 🚀 O que o projeto faz
+## O que o projeto faz
 
 - Lê um arquivo CSV com dados de vendas
 - Cria a coluna `total` com o total faturado
